@@ -14,15 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋      Hi, I'm Vit Justinov "@vi-u" and it is 
+👋      Hi, I'm Just Vit "@Just-Vit" and it is my contribution:
 
 ⚡ "Another try to make IT right!"
 
 👀      I’m interested in cyber security and full-stack devops
-🌱 I’m currently teaching as I go
+
+🌱      I’m currently teaching as I go
 
 👯      I’m looking to collaborate on cyber security devops
-📫 Please reach me on vit.us@hotmail.com
+
+📫      Please reach me on vit.us@hotmail.com
 
     In an attempt to make IT applications more structured, 
     I have numbered the repositories with integers so that 
